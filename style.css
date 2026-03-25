@@ -19,10 +19,15 @@ body {
 }
 
 .logo {
-    font-size: 28px;
+   
+    font-size: 34px; /* bigger but not huge */
+    text-align: center; /* center the title */
+    display: block; /* makes centering work */
+    margin: 20px 0; /* adds some space */
+    color: #f4b400; /* gold color */
     font-weight: bold;
-    color: #f4b400;
 }
+
 
 nav a {
     margin-left: 20px;
