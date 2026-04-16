@@ -20,11 +20,11 @@ body {
 
 .logo {
    
-    font-size: 34px; /* bigger but not huge */
-    text-align: center; /* center the title */
-    display: block; /* makes centering work */
-    margin: 20px 0; /* adds some space */
-    color: #f4b400; /* gold color */
+    font-size: 34px; 
+    text-align: center; 
+    display: block; 
+    margin: 20px 0; 
+    color: #f4b400; 
     font-weight: bold;
 }
 
@@ -77,6 +77,7 @@ nav a {
     background: #102338;
     padding: 20px;
     border-radius: 10px;
+    
 }
 
 .price {
@@ -90,4 +91,11 @@ footer {
     margin-top: 30px;
     border-top: 1px solid #243a52;
 }
+
+menu-item img {
+     width:10%;
+     height:10px;
+     border-radius:8px;
+     margin-bottom:8px;
+     }
                         
