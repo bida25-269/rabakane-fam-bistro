@@ -125,7 +125,7 @@ menu-item img {
 }
 
 .hero {
-    background-image: url("C:cover-page.jpg");
+    background-image: url <img src="IMG-20260411-WA0014.jpg"/>;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
