@@ -130,21 +130,3 @@ menu-item img {
     letter-spacing: 2px;
 }
 
-.hero {
-    background-image: url("cover-page.jpg");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-
-    min-height: 70vh;
-
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-
-    text-align: center;
-    color: white;
-    padding: 20px;
-}
-
