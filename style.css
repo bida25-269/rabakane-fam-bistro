@@ -6,10 +6,14 @@ body {
     background: #0b1c2d;
     color: white;
     background-image: url("cover-page.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100px;
+    
 }
 
 .container {
-    width: 30%;
+    width: 50%;
     margin: auto;
 }
 
