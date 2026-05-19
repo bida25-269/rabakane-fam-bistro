@@ -5,6 +5,7 @@ body {
     font-family: Arial, sans-serif;
     background: #0b1c2d;
     color: white;
+    background-image: url("cover-page.jpg");
 }
 
 .container {
