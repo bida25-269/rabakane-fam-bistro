@@ -71,8 +71,8 @@ nav a {
 
 .menu-item {
     background: #102338;
-    padding: 10px;
-    border-radius: 5px;
+    padding: 5px;
+    border-radius: 2px;
     
 }
 
@@ -91,8 +91,8 @@ footer {
 menu-item img {
      width:5%;
      height:5px;
-     border-radius:6px;
-     margin-bottom:6px;
+     border-radius:2px;
+     margin-bottom:2px;
      }
          
 /* REVIEWS PAGE */
@@ -125,7 +125,7 @@ menu-item img {
     letter-spacing: 2px;
 }
 
-.hero {
+body.home.hero {
     background-image: url("cover-page.jpg");
     background-size: cover;
     background-position: center;
