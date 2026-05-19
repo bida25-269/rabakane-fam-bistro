@@ -1,9 +1,15 @@
 
 body {
+    
     margin: 0;
     font-family: Arial, sans-serif;
     background: #0b1c2d;
     color: white;
+    background-image: url("cover-page.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100px;
+    width: 100vw;
 }
 
 .container {
@@ -141,3 +147,4 @@ menu-item img {
     color: white;
     padding: 20px;
 }
+
