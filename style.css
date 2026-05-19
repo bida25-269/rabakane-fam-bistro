@@ -8,7 +8,7 @@ body {
 }
 
 .container {
-    width: 90%;
+    width: 30%;
     margin: auto;
 }
 
@@ -34,7 +34,7 @@ body {
 
 
 nav a {
-    margin-left: 5px;
+    margin-left: 10px;
     color: #cfe8ff;
     text-decoration: none;
 }
@@ -125,7 +125,7 @@ menu-item img {
     letter-spacing: 2px;
 }
 
-body.home.hero {
+.hero {
     background-image: url("cover-page.jpg");
     background-size: cover;
     background-position: center;
