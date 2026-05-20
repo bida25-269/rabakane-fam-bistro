@@ -129,12 +129,8 @@ menu-item img {
 }
 
 .hero {
-    background-image: url("C:\Users\reamo\OneDrive - Botswana Accountancy College\Recordings\restaurant-website\image");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
 
-    min-height: 70vh;
+    min-height: 50vh;
 
     display: flex;
     flex-direction: column;
