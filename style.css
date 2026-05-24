@@ -123,14 +123,6 @@ menu-item img {
     text-align: centre;
 }
 
-.profile-img {
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
-    over-flow: hidden;
-    margin-right: 10px;
-}
-
 
 .stars {
     color: gold;
