@@ -127,11 +127,10 @@ menu-item img {
     width: 50px;
     height: 50px;
     border-radius: 50%;
+    over-flow: hidden;
     margin-right: 10px;
 }
-.profile{
-    display: flex;
-    align-item: center;
+
 
 .stars {
     color: gold;
