@@ -168,6 +168,11 @@ menu-item img {
     justify-content: space-between;
     align-items: centre;
     margin-bottom: 20px
+}
+p-class p{
+    font-size: 0.9rem;
+    color: #4b4b4b;
+}
     
 
 .hero {
