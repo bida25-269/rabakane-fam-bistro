@@ -163,6 +163,11 @@ menu-item img {
     color: gray;
     font-size: 0.8rem;
 }
+.box-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: centre;
+    margin-bottom: 20px
     
 
 .hero {
