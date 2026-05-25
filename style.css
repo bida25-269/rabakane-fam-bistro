@@ -159,20 +159,6 @@ menu-item img {
     font-size: 1.1rem;
     letter-spacing: 0.5px;
 }
-.name-user span{
-    color: gray;
-    font-size: 0.8rem;
-}
-.box-top{
-    display: flex;
-    justify-content: space-between;
-    align-items: centre;
-    margin-bottom: 20px
-}
-p-class p{
-    font-size: 0.9rem;
-    color: #4b4b4b;
-}
     
 
 .hero {
