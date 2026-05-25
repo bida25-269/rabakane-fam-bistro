@@ -75,7 +75,7 @@ nav a {
 .menu-item {
     background: #102338;
     padding: 20px;
-    border-radius: 10px;
+    border-radius: 50px;
     
 }
 
@@ -94,8 +94,8 @@ footer {
 .menu-item img {
      width:50%;
      height:50px;
-     border-radius:20px;
-     margin-bottom:20px;
+     border-radius:30px;
+     margin-bottom:30px;
      }
          
 /* REVIEWS PAGE */
@@ -149,13 +149,6 @@ footer {
     border-radius: 50%;
     margin-right: 10px;
     overflow: hidden;
-    
-}
-.profile-img img{
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: center;
     
 }
     
