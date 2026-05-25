@@ -97,57 +97,43 @@ footer {
      border-radius:30px;
      margin-bottom:30px;
      }
-         
 /* REVIEWS PAGE */
-.review-card {
-    padding: 20px;
-    width: 500px;
-    margin: 15px;
-    cursor: pointer;
-   display: flex;
-    flex-direction: column; 
+.reviews {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+}
 
+.review-card {
+    background: #102338;
+    padding: 20px;
+    border-radius: 10px;
 }
 
 .review-card p {
     color:white;
     margin-bottom: 10px;
-    display: flex;
-    flex-direction: column;
-    
 }
 
 .review-card h4 {
     color: #f4b400;
-    text-align: centre;
-   display: flex;
-    flex-direction: column; 
+    text-align: right;
 }
-
 
 .stars {
     color: gold;
     font-size: 24px;
     letter-spacing: 2px;
-    display: flex;
-    flex-direction: column;
 }
-.profile-img{
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
-    margin-right: 10px;
-
-    
-}
-    
-
-
-    
 
 .hero {
 
-    min-height: 50vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    min-height: 70vh;
 
     display: flex;
     flex-direction: column;
@@ -158,3 +144,6 @@ footer {
     color: white;
     padding: 20px;
 }
+
+         
+
