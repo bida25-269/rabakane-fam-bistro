@@ -139,12 +139,14 @@ menu-item img {
     border-radius: 50%;
     margin-right: 10px;
     overflow: hidden;
+    display: flex;
 }
 .profile-img img{
     width: 100%;
     height: 100%
     object-fit:cover;
     object-position: center;
+    display: flex;
 }
 .image-row{
     display: flex;
