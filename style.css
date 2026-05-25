@@ -68,7 +68,7 @@ nav a {
 }
 
 .menu-grid {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat;
     gap: 20px;
 }
 
@@ -121,11 +121,16 @@ footer {
 .review-card p {
     color:white;
     margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    
 }
 
 .review-card h4 {
     color: #f4b400;
     text-align: centre;
+   display: flex;
+    flex-direction: column; 
 }
 
 
@@ -133,6 +138,8 @@ footer {
     color: gold;
     font-size: 24px;
     letter-spacing: 2px;
+    display: flex;
+    flex-direction: column;
 }
 .prfile-img{
     width: 50px;
@@ -148,6 +155,10 @@ footer {
     object-fit:cover;
     object-position: center;
     
+}
+.profile{
+    display: flex;
+    align-items: centre;
 }
 *{
     margin: 0px;
@@ -179,6 +190,13 @@ a{
     font-weight: 500;
     backgroung-color: #202020;
     padding: 10px 20px;
+}
+
+.box-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: centre;
+}
     
 
 
