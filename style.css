@@ -146,6 +146,14 @@ menu-item img {
     object-fit:cover;
     object-position: center;
 }
+.image-row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.image-row img{
+    width: 30%;
+}
+
 
     
 
