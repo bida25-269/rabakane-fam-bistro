@@ -68,7 +68,6 @@ nav a {
 }
 
 .menu-grid {
-    display: flex;
     grid-template-columns: repeat(2, 1fr);
     gap: 20px;
 }
@@ -98,7 +97,6 @@ footer {
      height:5px;
      border-radius:2px;
      margin-bottom:2px;
-    display: flex
      }
          
 /* REVIEWS PAGE */
@@ -117,6 +115,7 @@ footer {
     width: 500px;
     margin: 15px;
     cursor: pointer;
+
 }
 
 .review-card p {
