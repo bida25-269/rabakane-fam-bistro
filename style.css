@@ -150,6 +150,20 @@ menu-item img {
     display: flex;
     align-items: centre;
 }
+.name-user{
+    display: flex;
+    flex-direction: column;
+}
+.name-user strong{
+    color: black;
+    font-size: 1.1rem;
+    letter-spacing: 0.5px;
+}
+.name-user span{
+    color: gray;
+    font-size: 0.8rem;
+}
+    
 
 .hero {
 
