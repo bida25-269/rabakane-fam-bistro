@@ -105,6 +105,7 @@ footer {
     flex-wrap: wrap;
     justify-content: centre;
     width: 100%;
+    flex-direction: column;
 }
 
 .review-card {
