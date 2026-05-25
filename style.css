@@ -99,15 +99,6 @@ footer {
      }
          
 /* REVIEWS PAGE */
-.reviews {
-    display: flex;
-    align-items: centre;
-    flex-wrap: wrap;
-    justify-content: centre;
-    width: 100%;
-    flex-direction: column;
-}
-
 .review-card {
     background: #102338;
     box-shadow: 2px 2px 30px rgba(0,0,0,0.1);
