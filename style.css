@@ -75,7 +75,7 @@ nav a {
 .menu-item {
     background: #102338;
     padding: 20px;
-    border-radius: 50px;
+    border-radius: 70px;
     
 }
 
@@ -100,10 +100,12 @@ footer {
 /* REVIEWS PAGE */
 .reviews /* REVIEWS PAGE */
 .reviews {
-    display: grid;
+    display: flex;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 20px;
     margin-top: 20px;
+    justify-content: centre;
+    flex-wrap: wrap;
 }
 
 
