@@ -16,6 +16,8 @@ body {
     width: 70%;
     margin: auto;
     text-size: 40%;
+    displace: flex;
+    flex-direction: column;
 }
 
 .nav {
@@ -68,6 +70,8 @@ nav a {
 .content {
     padding: 79px 0;
    text-align: center; 
+    display: flex;
+    flex-direction: column;
 }
 
 .menu-grid {
