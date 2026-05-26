@@ -17,7 +17,6 @@ body {
     margin: auto;
     text-size: 40%;
     displace: flex;
-    flex-direction: column;
 }
 
 .nav {
