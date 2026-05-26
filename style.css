@@ -79,7 +79,7 @@ nav a {
 
 .menu-item {
     background: #102338;
-    padding: 20px;
+    padding: 30px;
     border-radius: 70px;
     
 }
@@ -106,7 +106,7 @@ footer {
 }
 
 .menu-item img {
-     width:100%;
+     width:50%;
      height: auto;
      object-fit: cover;
      }
