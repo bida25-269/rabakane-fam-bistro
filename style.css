@@ -110,12 +110,15 @@ footer {
     justify-content: centre;
     flex-wrap: wrap;
 }
-
+.profile-img{
+    width: 50%;
+    height: 50%;
 
 .review-card {
     background: #102338;
     padding: 20px;
     border-radius: 10px;
+    
 }
 
 .review-card p {
