@@ -70,8 +70,8 @@ nav a {
 }
 
 .menu-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    display: flex;
+    flex-direction: columns;
     gap: 20px;
 }
 
