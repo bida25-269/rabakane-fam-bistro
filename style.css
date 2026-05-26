@@ -70,10 +70,12 @@ nav a {
 }
 
 .menu-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
     gap: 20px;
-    diplay: flex;
-    flex-direction: column;
 }
+
+
 
 .menu-item {
     background: #102338;
