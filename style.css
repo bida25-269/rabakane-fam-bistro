@@ -118,6 +118,7 @@ footer {
     background: #102338;
     padding: 20px;
     border-radius: 10px;
+    diplay: flex;
     
 }
 
