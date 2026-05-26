@@ -81,6 +81,8 @@ nav a {
     background: #102338;
     padding: 30px;
     border-radius: 70px;
+    display: flex;
+    flex-direction: column;
     
 }
 .image-row{
