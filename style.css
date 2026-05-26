@@ -83,6 +83,15 @@ nav a {
     border-radius: 70px;
     
 }
+.image-row{
+    display: flex;
+    gap: 15px;
+    justify-content: centre;
+}
+.image-row img{
+    width: 150px;
+    height: auto;
+}
 
 .price {
     color: #90ee90;
